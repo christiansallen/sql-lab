@@ -33,7 +33,7 @@ VALUES ('The Shire', 'Bilbo Baggins', '1 Hobbit-Hole', 'Bag End', '111', 'Middle
 
 UPDATE Customers SET PostalCode='11122' WHERE ContactName='Bilbo Baggins'
 
-#######STRETCH#########
+#######STRETCH##########
 
 ## list orders grouped by customer showing the number of orders per customer. _Rattlesnake Canyon Grocery_ should have 7 orders.
 
